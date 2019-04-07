@@ -1,0 +1,3 @@
+start learning git tool 
+this is the first file to commit 
+how to commit the file ?
