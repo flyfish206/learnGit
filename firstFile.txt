@@ -4,3 +4,4 @@ how to commit the file ?
 add new message to  the file
 try gui tool
 do something in branch dev
+change some word in dev
