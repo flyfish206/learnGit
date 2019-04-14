@@ -2,5 +2,6 @@ start learning git tool
 this is the first file to commit 
 how to commit the file ?
 add new message to  the file
-try gui tool
+try gui tool -another changer
 do something in branch dev
+do change in master branch
